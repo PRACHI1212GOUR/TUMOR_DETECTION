@@ -15,6 +15,12 @@
  Evaluation: Accuracy
  Visualisation: scatterplot
 
+#LIBRARIES USED:
+Numpy
+TensorFlow
+Matplotlib.pyplot
+keras
+
  #RESULTS:
  We achieved considerable accuracy with Convo;utional Neural Network model after the training process was 94.60% 
 
